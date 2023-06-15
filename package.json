@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "./dist/index.js",
   "description": "api for uploading images on Amazon S3 web service",
-  "keywords": ["typescript", "upload", "aws", "s3", "images", "multer"],
+  "keywords": ["typescript", "upload", "aws", "s3", "images", "multer", "mongo"],
   "author": "Leonardo do Nascimento <leonardo3.nascimento@gmail.com>",
   "license": "MIT",
   "scripts": {
